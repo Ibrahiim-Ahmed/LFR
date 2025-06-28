@@ -56,7 +56,7 @@ The IR sensors act as the robot's "eyes", detecting the contrast between the bla
 
 ---
 
-![circuit2](https://github.com/user-attachments/assets/4bd4a56c-49b0-456b-87ca-6bc73464f4e1)
+![lfr](https://github.com/user-attachments/assets/2579a7b7-5734-4c44-ba80-c87a8a1e0e88)
 
 
 
